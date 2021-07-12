@@ -2,6 +2,24 @@
 
 You want to release something as open source? Awesome! It's up to you to get it ready, but don't worry, you are never alone. Open a [new issue](issues/new?template=new-release.md) to get started. [Consider these questions as you start to open source the project.](docs/key-questions-for-choosing-projects.md)
 
+## Purpose of this kit
+
+Hypothetically, this kit would exist to guide organization members regarding open source contribution. However, given that this is my personal account, it exists to familiarize myself with what to expect or include in such a kit.
+
+## Whom to contact and how
+
+Here, I would provide contact details for a person or office responsible for organizational open source contribution decisions.
+
+## First steps
+
+0. Read the rest of this if you haven't.
+1. Discuss the idea, in light of the rest of this, with your team and manager.
+2. If agreed to release a project as open source, ontact the person mentioned above.
+
+## Relationship to other projects and goals
+
+Like most of my other recent projects on this site, this is part of a process of enough about GitHUb and open source to use them more effectively at work and in personal projects, to be prepared to help others learn about them as needed, and to contribute more helpfully to other, not-just-for-learning, open source projects.
+
 ## What should be open source?
 
 It's easier to answer this question in terms of what should **not** be open sourced:
